@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alessie-Mallari
-- 👀 I’m interested in ... READIn
-- 🌱 I’m currently learning ... HTML, CSS, JAVA and PHYTOn
-- 📫 How to reach me alessiemallari@gmail.com
+- 👀 I’m interested in ... READING
+- 🌱 I’m currently learning ... HTML, CSS, JAVA and JAVASCRIPT
+- 📫 How to reach me alessie0103@gmail.com
 
 
 <!---
